@@ -1,1 +1,1 @@
-# exemplos-html-javascript
+# Exemplos de uso básicos HTML com JavaScript
